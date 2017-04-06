@@ -2,8 +2,15 @@
 每日一题的网站
 
 # 快速参与开发
-> npm install
-> npm run dev
+```bash
+# install dependencies
+npm install
 
+# run at localhost:8085
+npm run devlocal
+```
 # 部署
-> npm run build
+```bash
+# build for production with minification
+npm run build
+```
